@@ -18,7 +18,7 @@ export default function Header() {
                 </div>
                 <div className="flex items-center space-x-6">
                     <a
-                        href="https://drive.google.com/file/d/1ubnmah6A_g-TtLVHe3Gj3Qos5ygc8XhB/view?usp=sharing"
+                        href="https://is3.cloudhost.id/disk4pps-wk/jurnalku/cv/student/12309874_1735041822.pdf"
                         className="px-4 py-2 bg-blue-500 text-white font-medium rounded-md transition-all duration-300 hover:bg-blue-700">
                         CV
                     </a>
